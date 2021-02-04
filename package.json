@@ -1,0 +1,19 @@
+{
+  "name": "mentoring_challenge_23-12",
+  "version": "1.0.0",
+  "description": "Mentoring challenge for 2.1 and 2.2 students",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McLaren-College/mentoring_challenge_23-12.git"
+  },
+  "author": "Arnav Puri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McLaren-College/mentoring_challenge_23-12/issues"
+  },
+  "homepage": "https://github.com/McLaren-College/mentoring_challenge_23-12#readme"
+}
